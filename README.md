@@ -11,7 +11,7 @@
     <ul>
         <li><strong>Sales leaderboard App.msapp:</strong> The PowerApps app file.</li>
         <li><strong> Power BI file:</strong> Sales leaderboard.pbix</li>
-        <li><strong>Data Source </strong>: powerapps solutions</li>
+        <li><strong>Data Source </strong>: power apps solutions</li>
     </ul>
     <h2>Getting Started</h2>
     <p><strong>App ID:</strong> 8f4320af-9fff-4b66-acfb-bea41d9780e4</p>
