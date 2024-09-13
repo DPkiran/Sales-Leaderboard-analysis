@@ -9,12 +9,12 @@
     <p>This repository contains a PowerApps project designed for creating custom business applications.</p>
     <h2>Files</h2>
     <ul>
-        <li><strong>Sales leaderboard analysis.msapp:</strong> The PowerApps app file.</li>
-        <li><strong>Data Source :</strong> dataverse</li>
-        <li><strong>Sales Leaderboard app </strong>: App files </li>
+        <li><strong>Sales leaderboard App.msapp:</strong> The PowerApps app file.</li>
+        <li><strong> Power BI file:</strong> Sales leaderboard.pbix</li>
+        <li><strong>Data Source </strong>: powerapps solutions</li>
     </ul>
     <h2>Getting Started</h2>
-    <p><strong>App ID:</strong>8f4320af-9fff-4b66-acfb-bea41d9780e4</p>
+    <p><strong>App ID:</strong> 8f4320af-9fff-4b66-acfb-bea41d9780e4</p>
     <p><strong>Explore the PowerApps App <a href="https://apps.powerapps.com/play/e/f9849dcf-a2f1-e360-9164-c97607be86d9/a/8f4320af-9fff-4b66-acfb-bea41d9780e4?tenantId=71b778b1-0a13-4b09-bd42-94367e4d13a2&sourcetime=1726210314617" target="_blank">here</a> for an overview of its functionalities and features.</strong></p>
     <h3>Screenshots of the App</h3>
     <p><strong>Detailed view</strong></p>
